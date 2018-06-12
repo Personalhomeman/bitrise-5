@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "e036e016878d5eb09c848a3a0289ec2f"
+build_time: [1528779714, 782007000]
+inputs:
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/bitrise_test/ViewController.swift": [1528779548, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/bitrise_test/AppDelegate.swift": [1528779548, 0]
