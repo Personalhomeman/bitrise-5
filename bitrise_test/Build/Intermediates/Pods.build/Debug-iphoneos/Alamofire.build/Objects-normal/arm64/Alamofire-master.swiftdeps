@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "4093497c40b7d6f4b5c1a97dae5d15a5"
+build_time: [1528963563, 627253000]
+inputs:
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/AFError.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/Alamofire.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/MultipartFormData.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/Notifications.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/ParameterEncoding.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/Request.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/Response.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/ResponseSerialization.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/Result.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/SessionDelegate.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/SessionManager.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/TaskDelegate.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/Timeline.swift": [1528779647, 0]
+  "/Users/TK/projects/Myself/bitrise/bitrise_test/Pods/Alamofire/Source/Validation.swift": [1528779647, 0]
