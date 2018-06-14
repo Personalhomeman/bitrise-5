@@ -4,12 +4,12 @@
   'roots': [
     {
       'type': 'directory',
-      'name': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers",
+      'name': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "Alamofire-Swift.h",
-          'external-contents': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+          'external-contents': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
         },
         {
           'type': 'file',
@@ -20,18 +20,18 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules",
+      'name': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Intermediates/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
+          'external-contents': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Intermediates/Pods.build/Debug-iphoneos/Alamofire.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Products/Debug-iphonesimulator/Pods_bitrise_test.framework/Headers",
+      'name': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Products/Debug-iphoneos/Pods_bitrise_test.framework/Headers",
       'contents': [
         {
           'type': 'file',
@@ -41,18 +41,18 @@
         {
           'type': 'file',
           'name': "Pods_bitrise_test-Swift.h",
-          'external-contents': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Products/Debug-iphonesimulator/Pods_bitrise_test.framework/Headers/Pods_bitrise_test-Swift.h"
+          'external-contents': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Products/Debug-iphoneos/Pods_bitrise_test.framework/Headers/Pods_bitrise_test-Swift.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Products/Debug-iphonesimulator/Pods_bitrise_test.framework/Modules",
+      'name': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Products/Debug-iphoneos/Pods_bitrise_test.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-bitrise_test.build/module.modulemap"
+          'external-contents': "/Users/TK/projects/Myself/bitrise/bitrise_test/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-bitrise_test.build/module.modulemap"
         }
       ]
     }
